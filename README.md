@@ -19,7 +19,7 @@ I work where business operations meet data. I run the systems a business depends
 - **Now:** Business Operations & Analytics at KRS Business Group Inc
 - **Building:** an internal CRM that manages compliance documents for 20 businesses
 - **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
-- **Managing:** social media for five Facebook Pages and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast's YouTube channel
+- **Managing:** social media for five Facebook Pages and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across YouTube, Instagram, and TikTok
 - **Education:** M.S. Business Analytics, Tennessee Wesleyan University (4.0 GPA) · B.S. Computer Science, Mississippi State University (Magna Cum Laude)
 
 ## Featured work
@@ -53,11 +53,13 @@ I run five Facebook Pages from Meta Business Suite, four for local businesses an
 |:---:|:---:|:---:|
 | across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
 
-- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I manage its YouTube channel and Facebook Page. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
+- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I manage its YouTube, Facebook, Instagram, and TikTok accounts. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
 - **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
 ![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
 
 <sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub>
 
