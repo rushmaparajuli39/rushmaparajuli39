@@ -70,7 +70,7 @@ I handle social media for four local businesses and a podcast across Facebook, I
 | [Amazon product ratings analysis](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis) | Predictive analysis of how product ratings relate to sales, using a Kaggle Amazon dataset (group project) | R |
 | [E-commerce CLI store](https://github.com/rushmaparajuli39/Methods-Tools-Group5) | Command-line store with user accounts and shopping, backed by MySQL (team project) | Python, MySQL |
 | [DBMS coursework](https://github.com/rushmaparajuli39/DBMS) | ER diagrams, relational schemas, and SQL queries | SQL, Python |
-| [Habit tracker](https://rushmaparajuli39.github.io/projects/habit-tracker.html) ([source](https://github.com/rushmaparajuli39/Android-Productivity-Tracker-App)) | Offline, installable habit tracker (PWA) with streaks, 16-week history, notes, and calendar reminders. Data stays on the device | JavaScript, PWA |
+| [Habit tracker](https://rushmaparajuli39.github.io/projects/habit-tracker.html) · [try it](https://rushmaparajuli39.github.io/Android-Productivity-Tracker-App/) · [source](https://github.com/rushmaparajuli39/Android-Productivity-Tracker-App) | Offline, installable habit tracker (PWA) with streaks, 16-week history, notes, and calendar reminders. Data stays on the device | JavaScript, PWA |
 
 ## Toolkit
 
