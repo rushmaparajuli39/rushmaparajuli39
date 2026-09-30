@@ -14,15 +14,36 @@ Dallas–Fort Worth, TX
 
 ---
 
-I work where business operations meet data. I run the systems a business depends on day to day (CRM, vendor, payroll, point-of-sale, and insurance operations) and turn what they record into reporting people can act on. With an M.S. in Business Analytics and a B.S. in Computer Science, I can also build the tool when the right one doesn't exist.
+I work where business operations meet data. I run the systems a business depends on day to day (CRM, vendor, payroll, point-of-sale, and insurance operations) and turn what they record into reporting people can act on. When the right tool doesn't exist, I plan it and have it built with Claude, an AI assistant that writes and runs most of the code. Coding isn't my specialty. I'm focused on operations, analytics, and CRM roles, not software engineering.
 
 - **Now:** Business Operations & Analytics at KRS Business Group Inc
-- **Building:** an internal CRM that manages compliance documents for 20 businesses
-- **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
 - **Managing:** social media for four local businesses and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across Facebook, Instagram, TikTok, and YouTube
+- **Leading:** an internal CRM for compliance documents across 20 businesses, built with Claude
+- **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
 - **Education:** M.S. Business Analytics, Tennessee Wesleyan University (4.0 GPA) · B.S. Computer Science, Mississippi State University (Magna Cum Laude)
 
-## Featured work
+## Social media and content
+
+I handle social media for four local businesses and a podcast across Facebook, Instagram, TikTok, and YouTube, using Meta Business Suite to plan content, schedule posts weeks ahead, and read Insights to see what's working.
+
+| 57K+ views | 80%+ | 3 weeks |
+|:---:|:---:|:---:|
+| across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
+
+- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I also run its YouTube channel. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
+- **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
+
+[![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
+[![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+
+<sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub> · **[See the charts and what the numbers told me →](https://rushmaparajuli39.github.io/projects/social-media.html)**
+
+## Projects
+
+Tools I've planned to solve real business problems. I write the requirements and decide how they should work; Claude, an AI assistant, writes and runs most of the code.
+
 
 ### [Entity Document CRM](https://github.com/rushmaparajuli39/CRM)
 **v1 shipped · actively developed** · [Case study](https://rushmaparajuli39.github.io/projects/crm.html) · [Live app](https://crm-app-liard-phi.vercel.app) · [v1 requirements](https://rushmaparajuli39.github.io/requirements/crm-v1.html) · [Source](https://github.com/rushmaparajuli39/CRM)
@@ -44,24 +65,6 @@ One place to track EIN records, licenses, and insurance policies (and the docume
 **Planning · requirements stage**
 
 A plan to turn the Entity Document CRM into a multi-tenant SaaS product any business can sign up for, with self-serve sign-up, an isolated workspace for each business, and an installable mobile app (PWA). It will use the same Next.js and Supabase stack, with Row Level Security keeping each business's data separate.
-
-## Social media and content
-
-I handle social media for four local businesses and a podcast across Facebook, Instagram, TikTok, and YouTube, using Meta Business Suite to plan content, schedule posts weeks ahead, and read Insights to see what's working.
-
-| 57K+ views | 80%+ | 3 weeks |
-|:---:|:---:|:---:|
-| across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
-
-- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I also run its YouTube channel. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
-- **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
-
-[![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
-[![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
-
-<sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub> · **[See the charts and what the numbers told me →](https://rushmaparajuli39.github.io/projects/social-media.html)**
 
 ## Other projects
 
@@ -91,7 +94,7 @@ I handle social media for four local businesses and a podcast across Facebook, I
 [![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
 [![Insurance agency systems](https://img.shields.io/badge/Insurance_Agency_Systems-Renegade_%C2%B7_First_Connect-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 
-**Building tools**<br>
+**Used in my projects (built with Claude)**<br>
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 [![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
