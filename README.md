@@ -56,11 +56,6 @@ One place to track EIN records, licenses, and insurance policies (and the docume
 - **Built for the field:** staff can take a photo of a document with their phone camera and upload it on the spot
 - **Accountable:** database triggers record every create, edit, and delete in an audit log
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
-[![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 
 ### Sarathi One
 **Planning · requirements stage**
@@ -83,23 +78,22 @@ A plan to turn the Entity Document CRM into a multi-tenant SaaS product any busi
 [![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)](https://rushmaparajuli39.github.io/#skills)
 [![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat-square&logo=powerbi&logoColor=black)](https://rushmaparajuli39.github.io/#skills)
 [![R](https://img.shields.io/badge/R-276dc3?style=flat-square&logo=r&logoColor=white)](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis)
-[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://github.com/rushmaparajuli39/Methods-Tools-Group5)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://github.com/rushmaparajuli39/Group5)
 [![Data visualization](https://img.shields.io/badge/Data_Visualization-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 
 **Business systems**<br>
 [![Salesforce](https://img.shields.io/badge/Salesforce_CRM-00a1e0?style=flat-square&logo=salesforce&logoColor=white)](https://rushmaparajuli39.github.io/#skills)
 [![POS and inventory](https://img.shields.io/badge/POS_%26_Inventory-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 [![Payroll](https://img.shields.io/badge/Payroll_Operations-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
-[![Vendor management](https://img.shields.io/badge/Vendor_Management-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Vendor evaluation](https://img.shields.io/badge/Vendor_Evaluation_%26_Selection-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 [![Agile](https://img.shields.io/badge/Agile%2FScrum-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 [![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
-[![Insurance agency systems](https://img.shields.io/badge/Insurance_Agency_Systems-Renegade_%C2%B7_First_Connect-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Insurance agency systems](https://img.shields.io/badge/Insurance_Systems-EZLynx_%C2%B7_Renegade_%C2%B7_First_Connect-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 
 **Used in my projects (built with Claude)**<br>
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 [![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
-[![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/rushmaparajuli39/Methods-Tools-Group5)
 
 ---
 
