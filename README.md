@@ -19,6 +19,7 @@ I work where business operations meet data. I run the systems a business depends
 - **Now:** Business Operations & Analytics at KRS Business Group Inc
 - **Building:** an internal CRM that manages compliance documents for 20 businesses
 - **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
+- **Creating:** [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose), our Nepali-English podcast
 - **Education:** M.S. Business Analytics, Tennessee Wesleyan University (4.0 GPA) · B.S. Computer Science, Mississippi State University (Magna Cum Laude)
 
 ## Featured work
@@ -43,6 +44,22 @@ One place to track EIN records, licenses, and insurance policies (and the docume
 **Planning · requirements stage**
 
 A plan to turn the Entity Document CRM into a multi-tenant SaaS product any business can sign up for, with self-serve sign-up, an isolated workspace for each business, and an installable mobile app (PWA). It will use the same Next.js and Supabase stack, with Row Level Security keeping each business's data separate.
+
+## Social media and content
+
+I run five Facebook Pages from Meta Business Suite, four for local businesses and one for our own podcast. The work covers planning content, scheduling posts weeks ahead, and reading Insights to see what's working.
+
+| 57K+ views | 80%+ | 3 weeks |
+|:---:|:---:|:---:|
+| across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
+
+- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is our new Nepali-English podcast of stories about purpose and progress (wealth, wellness, wisdom). Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
+- **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
+
+[![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
+![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)
+
+<sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub>
 
 ## Other projects
 
@@ -69,6 +86,7 @@ A plan to turn the Entity Document CRM into a multi-tenant SaaS product any busi
 ![Payroll](https://img.shields.io/badge/Payroll_Operations-4a5866?style=flat-square)
 ![Vendor management](https://img.shields.io/badge/Vendor_Management-4a5866?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-4a5866?style=flat-square)
+![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)
 
 **Building tools**<br>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
