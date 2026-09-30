@@ -19,7 +19,7 @@ I work where business operations meet data. I run the systems a business depends
 - **Now:** Business Operations & Analytics at KRS Business Group Inc
 - **Building:** an internal CRM that manages compliance documents for 20 businesses
 - **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
-- **Managing:** social media for five Facebook Pages and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across YouTube, Instagram, and TikTok
+- **Managing:** social media for four local businesses and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across Facebook, Instagram, TikTok, and YouTube
 - **Education:** M.S. Business Analytics, Tennessee Wesleyan University (4.0 GPA) · B.S. Computer Science, Mississippi State University (Magna Cum Laude)
 
 ## Featured work
@@ -47,13 +47,13 @@ A plan to turn the Entity Document CRM into a multi-tenant SaaS product any busi
 
 ## Social media and content
 
-I run five Facebook Pages from Meta Business Suite, four for local businesses and one for a podcast. The work covers planning content, scheduling posts weeks ahead, and reading Insights to see what's working.
+I handle social media for four local businesses and a podcast across Facebook, Instagram, TikTok, and YouTube, using Meta Business Suite to plan content, schedule posts weeks ahead, and read Insights to see what's working.
 
 | 57K+ views | 80%+ | 3 weeks |
 |:---:|:---:|:---:|
 | across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
 
-- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I manage its YouTube, Facebook, Instagram, and TikTok accounts. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
+- **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I also run its YouTube channel. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
 - **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
