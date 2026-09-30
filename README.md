@@ -16,7 +16,7 @@ Dallas–Fort Worth, TX
 
 I work where business operations meet data. I run the systems a business depends on day to day (CRM, vendor, payroll, point-of-sale, and insurance operations) and turn what they record into reporting people can act on. When the right tool doesn't exist, I plan it and have it built with Claude, an AI assistant that writes and runs most of the code. Coding isn't my specialty. I'm focused on operations, analytics, and CRM roles, not software engineering.
 
-- **Now:** Business Operations & Analytics at KRS Business Group Inc
+- **Now:** Business Operations & Analytics at KRS Business Group Inc, running operations across 20+ LLCs, including payroll for 30+ employees
 - **Managing:** social media for four local businesses and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across Facebook, Instagram, TikTok, and YouTube
 - **Leading:** an internal CRM for compliance documents across 20 businesses, built with Claude
 - **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
@@ -71,7 +71,7 @@ A plan to turn the Entity Document CRM into a multi-tenant SaaS product any busi
 | Project | What it is | Built with |
 |---|---|---|
 | [Amazon product ratings analysis](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis) | Predictive analysis of how product ratings relate to sales, using a Kaggle Amazon dataset (group project) | R |
-| [E-commerce CLI store](https://github.com/rushmaparajuli39/Methods-Tools-Group5) | Command-line store with user accounts and shopping, backed by MySQL (team project) | Python, MySQL |
+| [MSU Webmail](https://github.com/rushmaparajuli39/Group5) | Intro to Software Engineering team project (2021): co-wrote the [requirements specification](https://github.com/rushmaparajuli39/Group5/blob/main/Content/Software%20Requirements%20Specification.pdf) and delivered a simple web email client in sprints with a test plan | Python, Flask |
 | [DBMS coursework](https://github.com/rushmaparajuli39/DBMS) | ER diagrams, relational schemas, and SQL queries | SQL, Python |
 | [Habit tracker](https://rushmaparajuli39.github.io/projects/habit-tracker.html) · [try it](https://rushmaparajuli39.github.io/Android-Productivity-Tracker-App/) · [source](https://github.com/rushmaparajuli39/Android-Productivity-Tracker-App) | Offline, installable habit tracker (PWA) with streaks, 16-week history, notes, and calendar reminders. Data stays on the device | JavaScript, PWA |
 
