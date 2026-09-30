@@ -25,7 +25,7 @@ I work where business operations meet data. I run the systems a business depends
 ## Featured work
 
 ### [Entity Document CRM](https://github.com/rushmaparajuli39/CRM)
-**v1 shipped · actively developed** · [Live app](https://crm-app-liard-phi.vercel.app) · [v1 requirements](https://rushmaparajuli39.github.io/requirements/crm-v1.html) · [Source](https://github.com/rushmaparajuli39/CRM)
+**v1 shipped · actively developed** · [Case study](https://rushmaparajuli39.github.io/projects/crm.html) · [Live app](https://crm-app-liard-phi.vercel.app) · [v1 requirements](https://rushmaparajuli39.github.io/requirements/crm-v1.html) · [Source](https://github.com/rushmaparajuli39/CRM)
 
 One place to track EIN records, licenses, and insurance policies (and the documents behind them) for 20 business entities.
 
@@ -34,11 +34,11 @@ One place to track EIN records, licenses, and insurance policies (and the docume
 - **Built for the field:** staff can take a photo of a document with their phone camera and upload it on the spot
 - **Accountable:** database triggers record every create, edit, and delete in an audit log
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
 
 ### Sarathi One
 **Planning · requirements stage**
@@ -57,11 +57,11 @@ I handle social media for four local businesses and a podcast across Facebook, I
 - **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
-![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
+[![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
 
-<sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub>
+<sub>Figures from Meta Business Suite Insights, Jul–Sep 2026.</sub> · **[See the charts and what the numbers told me →](https://rushmaparajuli39.github.io/projects/social-media.html)**
 
 ## Other projects
 
@@ -70,31 +70,32 @@ I handle social media for four local businesses and a podcast across Facebook, I
 | [Amazon product ratings analysis](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis) | Predictive analysis of how product ratings relate to sales, using a Kaggle Amazon dataset (group project) | R |
 | [E-commerce CLI store](https://github.com/rushmaparajuli39/Methods-Tools-Group5) | Command-line store with user accounts and shopping, backed by MySQL (team project) | Python, MySQL |
 | [DBMS coursework](https://github.com/rushmaparajuli39/DBMS) | ER diagrams, relational schemas, and SQL queries | SQL, Python |
-| [Habit tracker](https://github.com/rushmaparajuli39/Android-Productivity-Tracker-App) | Offline, installable habit tracker (PWA) with streaks, 16-week history, notes, and calendar reminders. Data stays on the device | JavaScript, PWA |
+| [Habit tracker](https://rushmaparajuli39.github.io/projects/habit-tracker.html) ([source](https://github.com/rushmaparajuli39/Android-Productivity-Tracker-App)) | Offline, installable habit tracker (PWA) with streaks, 16-week history, notes, and calendar reminders. Data stays on the device | JavaScript, PWA |
 
 ## Toolkit
 
 **Analytics and reporting**<br>
-![SQL](https://img.shields.io/badge/SQL-4a5866?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat-square&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276dc3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Data visualization](https://img.shields.io/badge/Data_Visualization-4a5866?style=flat-square)
+[![SQL](https://img.shields.io/badge/SQL-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)](https://rushmaparajuli39.github.io/#skills)
+[![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat-square&logo=powerbi&logoColor=black)](https://rushmaparajuli39.github.io/#skills)
+[![R](https://img.shields.io/badge/R-276dc3?style=flat-square&logo=r&logoColor=white)](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://github.com/rushmaparajuli39/Methods-Tools-Group5)
+[![Data visualization](https://img.shields.io/badge/Data_Visualization-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 
 **Business systems**<br>
-![Salesforce](https://img.shields.io/badge/Salesforce_CRM-00a1e0?style=flat-square&logo=salesforce&logoColor=white)
-![POS and inventory](https://img.shields.io/badge/POS_%26_Inventory-4a5866?style=flat-square)
-![Payroll](https://img.shields.io/badge/Payroll_Operations-4a5866?style=flat-square)
-![Vendor management](https://img.shields.io/badge/Vendor_Management-4a5866?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-4a5866?style=flat-square)
-![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)
+[![Salesforce](https://img.shields.io/badge/Salesforce_CRM-00a1e0?style=flat-square&logo=salesforce&logoColor=white)](https://rushmaparajuli39.github.io/#skills)
+[![POS and inventory](https://img.shields.io/badge/POS_%26_Inventory-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Payroll](https://img.shields.io/badge/Payroll_Operations-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Vendor management](https://img.shields.io/badge/Vendor_Management-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Agile](https://img.shields.io/badge/Agile%2FScrum-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
+[![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
+[![Insurance agency systems](https://img.shields.io/badge/Insurance_Agency_Systems-Renegade_%C2%B7_First_Connect-4a5866?style=flat-square)](https://rushmaparajuli39.github.io/#skills)
 
 **Building tools**<br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=flat-square&logo=supabase&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)](https://rushmaparajuli39.github.io/projects/crm.html)
+[![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/rushmaparajuli39/Methods-Tools-Group5)
 
 ---
 
