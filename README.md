@@ -31,7 +31,8 @@ I handle social media for four local businesses and a podcast across Facebook, I
 | across two business Pages in 90 days | of views from people who don't follow the Page yet | of posts scheduled ahead, twice a day |
 
 - **[Sankalpa: Thrive With Purpose](https://www.youtube.com/@SankalpaThriveWithPurpose)** is a new Nepali-English podcast hosted by business owner Prem Thapa, telling stories of purpose and progress (wealth, wellness, wisdom). I also run its YouTube channel. Its Facebook Page reached 3,049 views in its last two weeks, 84% of them from Reels.
-- **Restaurant Page:** 53,028 views in 90 days, with 83% reaching non-followers.
+- **[Roma Pizza](https://www.facebook.com/profile.php?id=61592435582231):** 53,028 views in 90 days, with 83% reaching non-followers.
+- **Also managing:** [Threading & Waxing Experts Studio](https://www.facebook.com/profile.php?id=61592050048714), [Trishield Insurance Agency](https://www.facebook.com/profile.php?id=61591925853981), and [KRS Business Group](https://www.facebook.com/profile.php?id=61592117784786). [All accounts →](https://rushmaparajuli39.github.io/projects/social-media.html#brands)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sankalpa-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SankalpaThriveWithPurpose)
 [![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0866ff?style=flat-square&logo=meta&logoColor=white)](https://rushmaparajuli39.github.io/projects/social-media.html)
