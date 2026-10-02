@@ -19,7 +19,7 @@ I work where business operations meet data. I run the systems a business depends
 - **Now:** Business Operations Analyst at KRS Business Group Inc, running operations across 20+ LLCs, including payroll for 30+ employees
 - **Managing:** social media for four local businesses and the [Sankalpa](https://www.youtube.com/@SankalpaThriveWithPurpose) podcast across Facebook, Instagram, TikTok, and YouTube
 - **Leading:** an internal CRM for compliance documents across 20 businesses, built with Claude
-- **Planning:** Sarathi One, a multi-tenant SaaS version of that CRM
+- **Writing:** product and software requirements (PRD and SRD) for a confidential, pre-launch software product
 - **Education:** M.S. Business Analytics, Tennessee Wesleyan University (4.0 GPA) · B.S. Computer Science, Mississippi State University (Magna Cum Laude)
 
 ## Social media and content
@@ -57,10 +57,14 @@ One place to track EIN records, licenses, and insurance policies (and the docume
 - **Accountable:** database triggers record every create, edit, and delete in an audit log
 
 
-### Sarathi One
-**Planning · requirements stage**
+### [Feasibility study: new business venture](https://github.com/rushmaparajuli39/Feasibility-Study-New-Business-Venture)
+**In progress** · [Findings so far](https://github.com/rushmaparajuli39/Feasibility-Study-New-Business-Venture/blob/main/docs/07_findings_recommendation.md)
 
-A plan to turn the Entity Document CRM into a multi-tenant SaaS product any business can sign up for, with self-serve sign-up, an isolated workspace for each business, and an installable mobile app (PWA). It will use the same Next.js and Supabase stack, with Row Level Security keeping each business's data separate.
+A go / no-go study for a new venture, run the way a research analyst would. The venture is kept under a codename, and every figure shown is an illustrative placeholder.
+
+- **Market and competition:** market sizing from the top down and bottom up, competitor types, and a Five Forces review
+- **Financial model:** per-order profit, a 5-year projection, return metrics (NPV, IRR, payback) and sensitivity across three scenarios, in tested Python
+- **Risk and decision:** a scored risk register and a weighted scorecard that leads to a recommendation with conditions
 
 ## Other projects
 
